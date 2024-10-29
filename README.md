@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Enriek
 
-## `Digital Swiss Army Knife in Training`
+## `Digital Swiss Army Knife in Training 🔧`
 
 I’m a curious developer exploring the exciting world of programming. I enjoy picking up new languages and frameworks, embracing the journey of learning. My goal? 🎯 To become a generalist with a deep understanding of many subjects, much like a Swiss Army knife 🛠️—versatile and equipped for any challenge that comes my way! This way, I can tackle a variety of problems with confidence and creativity. 🌱
 
